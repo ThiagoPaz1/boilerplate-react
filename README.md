@@ -6,7 +6,7 @@
 ### 1 - No seu terminal, já dentro do projeto, digite o comando yarn, para instalar as dependências.
 ### 2 - Último passo, digite o comando yarn dev, para iniciar o projeto.
 
-## Pronto! Agora o Boilerplate esta completa e pronta para uso 🚀🚀🚀
+## Pronto! Agora o Boilerplate esta completo e pronta para uso 🚀🚀🚀
 
 ## Principais tecnologias que esse boilerplate contém:
 <ol>
