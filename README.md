@@ -1,5 +1,5 @@
 # Seja bem vindo :smile:
-## Boilerplate React
+## Template React
 
 # Instruções:
 
